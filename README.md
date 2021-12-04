@@ -1,3 +1,4 @@
-## usage
+## 工具函数
 
-npm i yjhl-react-viewer-typescript
+收集业务开发中常见的工具函数,以提高开发效率
+
